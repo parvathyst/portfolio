@@ -1,0 +1,47 @@
+html, body
+{
+    margin:0;
+    padding:0;
+    overflow-x: hidden;
+}
+
+body
+{
+    background-color: #005748;
+}
+
+.navbar
+{
+    background-color: #000000;
+    padding: 20px;
+    position: fixed;
+    width: 100%;
+    z-index: 3;
+}
+
+.navbar a
+{
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar a>i
+{
+    padding: 10px;
+}
+
+.inactive
+{
+    color: #cfb082;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#home
+{
+    color: #ffffff;
+    padding-left: 10px;
+    padding-right: 10px; 
+}
+
+

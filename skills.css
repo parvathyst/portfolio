@@ -1,0 +1,103 @@
+.skills
+{
+    background: #000000;
+    display: block;
+    width: 90%;
+    height: 600px;
+    padding: 10px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.skills h1
+{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.skillcont
+{
+    position: relative;
+}
+
+.skillcont p
+{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.progressout
+{
+    position: absolute;
+    display: block;
+    height: 30px;
+    width: 150px;
+    background: #005748;
+    border: 1px solid #005748;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+
+}
+
+.progressin1
+{
+    margin-top: 3px;
+    height: 22px;
+    width: 90px;
+    background: #C4C4C4;
+    border-radius: 35px;
+}
+
+.progressin2
+{
+    margin-top: 3px;
+    height: 22px;
+    width: 80px;
+    background: #C4C4C4;
+    border-radius: 35px;
+}
+
+.smaincont
+{
+    padding-left: 400px;
+    padding-top: 70px;
+}
+
+.hobby
+{
+    margin-top: -273px;
+    float: right;
+    padding-right: 300px;
+}
+
+.hobby ul li
+{
+    color: white;
+    font-size: x-large;
+    padding: 2px;
+}
+
+.hobby ul p
+{
+    color: white;
+    font-size: x-large;
+    padding: 2px;
+    background-color: black;
+    padding: 10px;
+    width: fit-content;
+    margin-left:-10px ;
+}
+
+.smaincont span
+{
+    color: white;
+    font-size: x-large;
+    padding: 2px;
+    background-color: black;
+    padding: 10px;
+    width: fit-content;
+    margin-left:-10px ;
+}

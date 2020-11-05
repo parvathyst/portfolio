@@ -1,0 +1,38 @@
+.imgcont img
+{
+    position: absolute;
+    width: 100%;
+    border-radius: 50%;
+}
+
+.imgcont
+{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    left: 50%;
+    top: 200px;
+    transform: translate(-50%,-50%);
+}
+
+.about h1
+{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 100px;
+    text-align: center;
+}
+
+.about p
+{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.about
+{
+    padding-bottom: 200px;
+    padding-top: 50px;
+}
